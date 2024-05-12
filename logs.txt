@@ -1,0 +1,1 @@
+2024-05-12 14:28:54,409 FILE: db.py IN: add_message MESSAGE: Error binding parameter 5: type 'tuple' is not supported
