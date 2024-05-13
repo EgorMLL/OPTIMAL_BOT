@@ -11,7 +11,8 @@ from yandex_gpt import ask_gpt
 API_TOKEN = TOKEN
 bot = telebot.TeleBot(get_bot_token())
 
-
+prepare_db()
+create_database()
 
 logging.basicConfig(
     filename=LOGS,
